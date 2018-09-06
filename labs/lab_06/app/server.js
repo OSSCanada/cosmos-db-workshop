@@ -1,11 +1,15 @@
-var restify = require('restify');
+const restify = require('restify');
+const mongoose = require('mongoose');
+const DBURI = process.env.MONGOURI;
+
+mongoose.connect(DBURI);
 
 function respond(req, res, next) {
   res.send('hello ' + req.params.name);
   next();
 }
 
-var server = restify.createServer();
+const server = restify.createServer();
 server.get('/hello/:name', respond);
 server.head('/hello/:name', respond);
 
