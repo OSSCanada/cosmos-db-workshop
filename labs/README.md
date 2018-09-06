@@ -1,6 +1,6 @@
 # Labs
 
-0. Azure Cosmos DB Overview (See [Deck/Slides](slides/))
+0. Azure Cosmos DB Overview [optional] (See [Deck/Slides](slides/))
 1. Setting Up Cosmos DB
     - Azure Portal
     - Azure CLI
