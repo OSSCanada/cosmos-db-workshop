@@ -24,8 +24,8 @@ Some features include but are not limited to:
 6. Gremlin CLI
 7. Cassandra CLI
 
-## Agenda
-0. Azure Cosmos DB Overview (See Deck/Slides)
+## Agenda/Labs
+0. Azure Cosmos DB Overview (See [Deck/Slides](slides/))
 1. Setting Up Cosmos DB
     - Azure Portal
     - Azure CLI
@@ -38,9 +38,8 @@ Some features include but are not limited to:
 5. Inserting/Updating/Querying your DB using differnt API/Model types (secondary access)
 6. Deploying a Node.js Web API that can access your Cosmos instance via Mongo API
 7. Stored Procedures/User Defined Functions (UDFs) with Javascript
-8. Overview of the Cosmos DB Change Feed (See Deck/Slides)
+8. Overview of the Cosmos DB Change Feed (See [Deck/Slides](slides/))
 9. Deploy a .NET Core app that montior and react to changes/Events in a Cosmos DB Collection
 10. Deploy an Azure Functions app that montior and react to changes/Events in a Cosmos DB Collection
 11. Connecting an Apache Spark Job to Cosmos DB with Databricks on Azure
 12. Cosmos DB, Python and Jupyter Notebooks
-
