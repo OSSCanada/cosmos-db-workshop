@@ -10,8 +10,8 @@ Some features include but are not limited to:
 3. Elastic and Independent Scaling of Compute, Throughput and Storage
 4. Automatic Indexing
 5. Multiple Defined Consistency Levels [Strong, Bounded-Staleness, Session, Consistent Prefix, Eventual]
-6. Database Change Feed
-7. Apache Spark Connector
+6. Cosmos DB Change Feed (Event Bus)
+7. Apache Spark Connector for Cosmos DB Change Feed
 
 ## Prerequisites
 1. An Azure Account/Subscription
