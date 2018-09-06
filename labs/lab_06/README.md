@@ -17,7 +17,7 @@ You must have Node.js installed locally on your machine.
 
 ## Locally with Docker Image (Optional)
 
-You must have Docker Engine installed for your particular OS platform.
+You must have Docker Engine installed for your particular OS [MacOS, Linux, Windows].
 
 1. Ensure that the CosmosDB Connection string is part of your environment variables ```export MONGOURI="<your.cosmosdb.connection.string>"```
 2. Start the precreated publically available container: ```docker run -it --rm -e MONGOURI -p 8080:8080 raykao/cosmos-demo-web-api```
@@ -27,5 +27,7 @@ You must have Docker Engine installed for your particular OS platform.
 
 You must use an existing or create a new Linux App Service Plan and then deploy a Web App for Containers instance into that plan.
 
-1. Option (a) Deploy via the Azure Portal
-1. Option (b) Deploy via the Azure-CLI
+The precreated Docker image
+
+1. Option (a) Deploy container via the Azure Portal
+1. Option (b) Deploy container via the Azure-CLI
