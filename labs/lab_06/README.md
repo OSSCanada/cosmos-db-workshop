@@ -24,3 +24,8 @@ You must have Docker Engine installed for your particular OS platform.
 3. You can now access the API locally at ```http://localhost:8080```
 
 ## Remotely to Azure App Service - Web App for Containers (Optional)
+
+You must use an existing or create a new Linux App Service Plan and then deploy a Web App for Containers instance into that plan.
+
+1. Option (a) Deploy via the Azure Portal
+1. Option (b) Deploy via the Azure-CLI
