@@ -17,12 +17,17 @@ Some features include but are not limited to:
 1. An Azure Account/Subscription
     - You can sign-up for a free trial account [here](https://azure.microsoft.com/en-us/free/)
     - If you are using an MSDN or Corporate Subscription ensure you have the ability to create Resource Groups and deploy services into your Account/Subscription
-2. A Mac, Linux or Windows device to run the labs in
+2. A Mac, Linux or Windows device to run the labs
 3. A Modern web browser [Chrome, Edge, Safari or Firefox]
 4. Node.JS, Java and .NET Core installed (You can optionally run these in a Docker Container)
 5. Mongo CLI
 6. Gremlin CLI
 7. Cassandra CLI
+
+### Optional
+1. Docker
+2. VSCode
+
 
 ## Agenda/Labs
 0. Azure Cosmos DB Overview (See [Deck/Slides](slides/))
@@ -33,7 +38,7 @@ Some features include but are not limited to:
     - Geo Replication
     - Setting Consistency Models
 2. Deploying Cosmos with a Mongo DB Model/API as your Primary DB Model/API
-3. Deploying Cosmos with a Gremlin Graph DB Model/API as your Primary DB Model/API
+3. Deploying Cosmos with a Gremlin Graph DB Model/API as your Primary DB Model/API [Optional]
 4. Inserting/Updating/Querying via the Azure Portal as the Primary Interface
 5. Inserting/Updating/Querying your DB using differnt API/Model types (secondary access)
 6. Deploying a Node.js Web API that can access your Cosmos instance via Mongo API
