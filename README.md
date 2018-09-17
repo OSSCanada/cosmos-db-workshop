@@ -49,5 +49,5 @@ Some features include but are not limited to:
 8. Overview of the Cosmos DB Change Feed (See [Deck/Slides](slides/))
 9. Deploy a .NET Core app that montior and react to changes/Events in a Cosmos DB Collection
 10. Deploy an Azure Functions app that montior and react to changes/Events in a Cosmos DB Collection
-11. Connecting an Apache Spark to Cosmos DB with Databricks on Azure
+11. Connecting an Apache Spark Cluster to Cosmos DB with Databricks on Azure
 12. Cosmos DB, Python and Jupyter Notebooks

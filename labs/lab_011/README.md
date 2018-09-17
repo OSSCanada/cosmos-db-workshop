@@ -1,3 +1,5 @@
+# Lab 11 - Connecting an Apache Spark Cluster to Cosmos DB with Databricks on Azure
+
 ## Create a library
 You can create Java, Scala, and Python libraries to run on Spark clusters, or point to external packages in PyPI, Maven, and CRAN. To create a library:
 
