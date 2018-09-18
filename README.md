@@ -19,14 +19,14 @@ Some features include but are not limited to:
     - If you are using an MSDN or Corporate Subscription ensure you have the ability to create Resource Groups and deploy services into your Account/Subscription
 2. A Mac, Linux or Windows device to run the labs
 3. A Modern web browser [Chrome, Edge, Safari or Firefox]
-4. Node.JS, Java and .NET Core installed (You can optionally run these in a Docker Container)
-5. Mongo CLI
-6. Gremlin CLI
-7. Cassandra CLI
 
 ### Optional
 1. Docker
 2. VSCode
+3. Mongo CLI
+4. Gremlin CLI
+5. Cassandra CLI
+6. Node.JS, Java and .NET Core installed (You can optionally run these in a Docker Container)
 
 
 ## Agenda/Labs
@@ -45,7 +45,7 @@ Some features include but are not limited to:
 5. Demo: Deploying a Node.js Web API that can access your Cosmos instance via Mongo API
 6. Advanced Features 1:
     - Indexing (Automatic and Custom)
-    - Partitions
+    - Partitions/Partition Keys
     - Request Units
 
 -- Lunch --
