@@ -10,7 +10,7 @@
   "author": "Ray Kao",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^5.2.13",
+    "mongoose": "^5.2.15",
     "restify": "^7.2.1"
   }
 }

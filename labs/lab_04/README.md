@@ -28,6 +28,9 @@ documents.azure.com:10255/<your database name>
 ```shell
 # example mongodb://[username:password@]host1[:port1][/[database][?options]]
 
+# with docker container
+# docker run -it --rm mongo mongo --host <comos_accountname>.documents.azure.com --port 10255 --ssl --username <cosmos_accountname> --password <primary_or_secondary_key>
+
 mongodb://<cosmos_accountname>:<primary_or_secondary_key>@<cosmos_accountname>.documents.azure.com:10255/<database_name>?ssl=true
 
 > show dbs
