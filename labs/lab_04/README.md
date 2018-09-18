@@ -8,7 +8,7 @@ Cosmos DB is a multi model API database.  What this means is that it is able to 
 
 This allows you to have greater flexibility in your applications reading/writing to your Database depending on the type of data structure you wish to use with the same information stored.
 
-**Note** There are limitations to this as some properties and primitive concepts in one Database engine are not necessarily mapped 1:1 or are non-existent.
+**Note** There are limitations to this as some properties and primitive concepts in one Database engine are not necessarily mapped 1:1 or are non-existent.  As an example, properties in a document created in SQL API/Model with a leading underscore ``_`` in it's name are not returned when queried from a Mongo API/Client.
 
 ## Requirements
 1. Mongo Command Line Interface (CLI) aka. Mongo Client
