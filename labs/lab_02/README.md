@@ -84,4 +84,6 @@ ADF allows you a powerful graphical user interface for creating data pipelines. 
 
 The steps above establish the data pipeline we will use to import data from a CSV file hosted in GitHub, to our Azure Cosmos DB instance.  The pipeline allows us to define the schema using the first row in the the CSV file and will add those as properties to our documents (JSON) in Cosmos DB.
 
+We will leverage this flight data in our later labs which will process this information inside Azure Databricks via Jupyter Notebooks.
+
 Wait for the Data to transfer before moving on to the next lab.
