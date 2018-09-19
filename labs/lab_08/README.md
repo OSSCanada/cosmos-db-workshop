@@ -1,3 +1,3 @@
 # Lab 8 - Overview of the Cosmos DB Change Feed 
 
-See [Deck/Slides](slides/)
+See [lab_8 - Change Feed Deck](../../slides/lab_8 - Change Feed.pptx)
