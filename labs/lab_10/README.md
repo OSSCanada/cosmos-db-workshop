@@ -1,4 +1,4 @@
-# Lab 11 - Connecting an Apache Spark Cluster to Cosmos DB with Databricks on Azure
+# Lab 10 - Connecting an Apache Spark Cluster to Cosmos DB with Databricks on Azure
 
 ## Quickstart: Deploy Azure Databricks using the Azure portal
 

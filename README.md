@@ -46,7 +46,8 @@ Some features include but are not limited to:
 6. Advanced Features 1:
     - Indexing (Automatic and Custom)
     - Partitions/Partition Keys
-    - Request Units
+    - Unique Keys
+    - Request Units Explained
 
 -- Lunch --
 

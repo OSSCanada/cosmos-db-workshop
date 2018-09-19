@@ -1,4 +1,4 @@
-# Deploying a Node.js Web API that can access your Cosmos instance via Mongo API
+# Lab 5 - Deploying a Node.js Web API that can access your Cosmos instance via Mongo API
 
 In this lab we will deploy the precerated app to connect to Cosmos DB via a Mongo API/ODM (Mongoose) via one (1) of three (3) optional ways:
 1. locally with Node.JS --or--
@@ -9,7 +9,7 @@ In this lab we will deploy the precerated app to connect to Cosmos DB via a Mong
 
 You must have Node.js installed locally on your machine.
 
-1. Navigate to the app directory (i.e. ```lab_06/app```)
+1. Navigate to the app directory (i.e. ```lab_05/app```)
 2. Install the node dependencies with the following command: ```npm install```
 3. Ensure that the CosmosDB Connection string is part of your environment variables ```export MONGOURI="<your.cosmosdb.connection.string>"```
 4. Run the node app ```npm start```
