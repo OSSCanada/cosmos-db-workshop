@@ -58,3 +58,6 @@ Some features include but are not limited to:
 8. Overview of the Cosmos DB Change Feed (See [Deck/Slides](slides/))
 9. Deploy an Azure Functions App that montiors and reacts to Changes/Events in a Cosmos DB Collection via Cosmos DB Change Feed
 10. Connecting an Apache Spark Cluster to Cosmos DB with Databricks on Azure
+
+## Additional Labs
+[Official Azure Cosmos DB Lab Repository](https://github.com/CosmosDB/labs)
